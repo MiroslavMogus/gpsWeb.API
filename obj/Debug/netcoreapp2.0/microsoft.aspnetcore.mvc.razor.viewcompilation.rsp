@@ -1,0 +1,5 @@
+/home/miromogus/NET/gpsWeb.API
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=gpsWeb.API
+--content-root=/home/miromogus/NET/gpsWeb.API
+--file=
